@@ -1,24 +1,8 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#Project done in Cloud9
 
+This is a testing project, as part of a full-stack Diploma in Software Development. The module this testing project is for is User Centric Front End Development and learning the how to develop a project with html and css using Cloud9 as integrated development environment. Also learning how to use command line interface, Git and GitHub to create remote repository and push code into repository from command line, as well as deploying website using Gh Pages. 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
+For further information about Cloud9, see below:-
 
 ## Support & Documentation
 
